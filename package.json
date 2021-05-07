@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/yangfan789789/bookwork#readme",
   "dependencies": {
-    "grunt": "^1.1.0",
+    "grunt": "^1.3.0",
     "grunt-eslint": "^22.0.0",
     "grunt-contrib-less": "^2.0.0",
     "grunt-htmlhint": "^0.9.13",
